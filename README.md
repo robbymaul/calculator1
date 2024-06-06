@@ -1,7 +1,6 @@
 # calculator1
 
 ![Screenshot UI calculator](assets/images//calculator1_android.PNG)
-![Screenshot UI calculator](assets/images//Screenshot_1717655888.png)
 
 ## Table of content
 
