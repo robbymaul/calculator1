@@ -24,7 +24,7 @@
 ## Installation :
 1. Clone the repositories
 ```bash
- git clone
+ git clone https://github.com/robbymaul/calculator1
 ```
 2. Running project
 ```dart
